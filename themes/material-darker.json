@@ -1,0 +1,21 @@
+{
+    "author": {
+        "name": "Percy Paco",
+        "github": "percypm"
+    },
+    "version": "1.0",
+    "theme": {
+        "textColor": "#EEFFFF",
+        "backgroundColor": "#222222",
+        "matchBackgroundColor": "#282828",
+        "selection": {
+            "textColor": "#89DDFF",
+            "backgroundColor": "#222222",
+            "matchBackgroundColor": "#222222"
+        },
+        "description": {
+            "textColor": "#C792EA",
+            "borderColor": "#424242"
+        }
+    }
+}
